@@ -1,6 +1,6 @@
 nginx
-koodo-reader
-musictag-web
+jxzzlfh/koodo-reader:latest
+--musictag-web
 #支持私库
 --k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
